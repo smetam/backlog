@@ -18,6 +18,7 @@ Collection of materials, that might be useful.
 
 ## Books
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io)
+- [ ] [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org)
 
 ## Examples
 - [ ] [AB test code analysis](https://alex.gladkikh.org/dataanalytics/abtest/job/2022/06/30/analyze-AB-test.html)
