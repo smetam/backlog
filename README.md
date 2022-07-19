@@ -35,6 +35,7 @@ Collection of materials, that might be useful.
 ## Interview Preparation Materials
 - [ ] [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 - [ ] [Amazon behavioral interview guide](https://igotanoffer.com/blogs/tech/amazon-behavioral-interview)
+- [ ] [DataTalksClub DS Interviews](https://ds-interviews.org)
 
 ## Interview questions and answers
 - [ ] [134 Data Science interview Q&A](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project/blob/master/data%20science%20interview%20questions%20by%20steve.pdf)
