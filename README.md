@@ -14,6 +14,7 @@ Collection of materials, that might be useful.
 - [ ] [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [ ] [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
+- [ ] [CS 329S: Machine Learning Systems Design 2021](https://stanford-cs329s.github.io/2021/syllabus.html) and [2022](https://stanford-cs329s.github.io/syllabus.html)
 
 ## Books
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io)
