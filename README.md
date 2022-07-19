@@ -2,6 +2,14 @@
 Collection of materials, that might be useful.
 
 
+## Table of Contents
+**[Courses](#courses)**<br>
+**[Books](#books)**<br>
+**[Examples & Tutorials](#examples-and-tutorials)**<br>
+**[Videos](#videos)**<br>
+**[Interview](#interview-preparation-materials)**<br>
+
+
 ## Courses
 ### Machine Learning
 - [ ] [New Andrew Ng Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -20,9 +28,12 @@ Collection of materials, that might be useful.
 ## Books
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io)
 - [ ] [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org)
+- [ ] [(RU) Reinforcement Learning Textbook](https://arxiv.org/abs/2201.09746)
 
-## Examples
+## Examples and Tutorials
 - [ ] [AB test code analysis](https://alex.gladkikh.org/dataanalytics/abtest/job/2022/06/30/analyze-AB-test.html)
+- [ ] [Hugging Face Tasks](https://huggingface.co/tasks)
+
 
 ## Videos
 
