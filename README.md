@@ -31,6 +31,9 @@ Collection of materials, that might be useful.
 - [ ] [Google Machine Learning System Design Mock Interview](https://www.youtube.com/watch?v=uF1V2MqX2U0)
 - [ ] [(RU) Karpov.Courses Interview Playlist](https://www.youtube.com/watch?v=VPg2Uu1MYgI&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni&index=13)
 
+### AWS
+- [ ] [SageMaker Deep Dive](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
+
 
 ## Interview Preparation Materials
 - [ ] [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
