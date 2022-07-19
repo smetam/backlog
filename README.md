@@ -5,8 +5,12 @@ Collection of materials, that might be useful.
 ## Courses
 ### Machine Learning
 - [ ] [New Andrew Ng Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+- [ ] [DataTalksClub MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [ ] [DataTalksClub Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- [ ] [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 
 ### System Design
+- [ ] [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
 - [ ] [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [ ] [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
