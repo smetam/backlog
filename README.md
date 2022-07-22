@@ -16,6 +16,11 @@ Collection of materials, that might be useful.
 - [ ] [DataTalksClub MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
 - [ ] [DataTalksClub Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [ ] [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
+- [ ] [Practical Deep Learning for Coders](https://course.fast.ai)
+- [ ] [NLP Course For You](https://lena-voita.github.io/nlp_course.html)
+- [ ] [(RU) ML Handbook from Yandex](https://ml-handbook.ru)
+
+
 
 ### System Design
 - [ ] [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
