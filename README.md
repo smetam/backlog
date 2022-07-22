@@ -38,6 +38,7 @@ Collection of materials, that might be useful.
 ## Tutorials
 - [ ] [AB test code analysis](https://alex.gladkikh.org/dataanalytics/abtest/job/2022/06/30/analyze-AB-test.html)
 - [ ] [Hugging Face Tasks](https://huggingface.co/tasks)
+- [ ] [Lightning Flash](https://lightning-flash.readthedocs.io/en/latest/)
 
 
 ## Videos
