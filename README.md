@@ -19,6 +19,7 @@ Collection of materials, that might be useful.
 - [ ] [Practical Deep Learning for Coders](https://course.fast.ai)
 - [ ] [NLP Course For You](https://lena-voita.github.io/nlp_course.html)
 - [ ] [(RU) ML Handbook from Yandex](https://ml-handbook.ru)
+- [ ] [(RU) ODS ML in Production](https://ods.ai/tracks/ml-in-production-spring-22)
 
 
 
