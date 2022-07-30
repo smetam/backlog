@@ -35,6 +35,7 @@ Collection of materials, that might be useful.
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io)
 - [ ] [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org)
 - [ ] [(RU) Reinforcement Learning Textbook](https://arxiv.org/abs/2201.09746)
+- [ ] [Probability and Statistics for Economists](https://www.ssc.wisc.edu/~bhansen/probability/Probability.pdf)
 
 ## Tutorials
 - [ ] [AB test code analysis](https://alex.gladkikh.org/dataanalytics/abtest/job/2022/06/30/analyze-AB-test.html)
