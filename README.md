@@ -58,6 +58,7 @@ Collection of materials, that might be useful.
 
 ## Interview Preparation Materials
 - [ ] [Tech Interview Handbook](https://www.techinterviewhandbook.org)
+- [ ] [Hands-On Algorithmic Problem Solving](https://github.com/liyin2015/python-coding-interview/blob/master/Easy-Book/main.pdf)
 - [ ] [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 - [ ] [Amazon behavioral interview guide](https://igotanoffer.com/blogs/tech/amazon-behavioral-interview)
 - [ ] [DataTalksClub DS Interviews](https://ds-interviews.org)
