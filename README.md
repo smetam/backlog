@@ -26,7 +26,7 @@ Collection of materials, that might be useful.
 
 
 ### System Design
-- [ ] [Grokking the Machine Learning Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview)
+- [ ] Grokking the Machine Learning Interview [Educative](https://www.educative.io/courses/grokking-the-machine-learning-interview) or [Design Gurus](https://designgurus.org/course/grokking-the-system-design-interview)
 - [ ] [Machine Learning System Design](https://www.educative.io/courses/machine-learning-system-design)
 - [ ] [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
 - [ ] [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
