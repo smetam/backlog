@@ -21,6 +21,8 @@ Collection of materials, that might be useful.
 - [ ] [(RU) ML Handbook from Yandex](https://ml-handbook.ru)
 - [ ] [(RU) ODS ML in Production](https://ods.ai/tracks/ml-in-production-spring-22)
 
+### Algorithms
+- [ ] [(RU) How to prepare for Algorithms Interview](https://practicum.yandex.ru/algorithms-interview/)
 
 
 ### System Design
