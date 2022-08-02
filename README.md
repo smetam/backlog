@@ -57,6 +57,7 @@ Collection of materials, that might be useful.
 
 
 ## Interview Preparation Materials
+- [ ] [Tech Interview Handbook](https://www.techinterviewhandbook.org)
 - [ ] [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 - [ ] [Amazon behavioral interview guide](https://igotanoffer.com/blogs/tech/amazon-behavioral-interview)
 - [ ] [DataTalksClub DS Interviews](https://ds-interviews.org)
