@@ -44,6 +44,8 @@ Collection of materials, that might be useful.
 - [ ] [Hugging Face Tasks](https://huggingface.co/tasks)
 - [ ] [Lightning Flash](https://lightning-flash.readthedocs.io/en/latest/)
 
+## Blogs
+- [ ] [(RU) Small Data Science](https://dyakonov.org)
 
 ## Videos
 
