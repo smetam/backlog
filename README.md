@@ -38,6 +38,7 @@ Collection of materials, that might be useful.
 - [ ] [Deep Learning book by Ian Goodfellow](https://www.deeplearningbook.org)
 - [ ] [(RU) Reinforcement Learning Textbook](https://arxiv.org/abs/2201.09746)
 - [ ] [Probability and Statistics for Economists](https://www.ssc.wisc.edu/~bhansen/probability/Probability.pdf)
+- [ ] [OpenAI Spinning Up RL](https://spinningup.openai.com/en/latest/)
 
 ## Tutorials
 - [ ] [AB test code analysis](https://alex.gladkikh.org/dataanalytics/abtest/job/2022/06/30/analyze-AB-test.html)
