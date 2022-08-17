@@ -18,6 +18,7 @@ Collection of materials, that might be useful.
 - [ ] [DataTalksClub Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp/)
 - [ ] [Practical Deep Learning for Coders](https://course.fast.ai)
 - [ ] [NLP Course For You](https://lena-voita.github.io/nlp_course.html)
+- [ ] [Full Stack Deep Learning](https://fullstackdeeplearning.com)
 - [ ] [(RU) ML Handbook from Yandex](https://ml-handbook.ru)
 - [ ] [(RU) ODS ML in Production](https://ods.ai/tracks/ml-in-production-spring-22)
 
