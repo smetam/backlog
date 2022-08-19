@@ -33,6 +33,7 @@ Collection of materials, that might be useful.
 - [ ] [Deep Dive into System Design Interview](https://www.educative.io/path/deep-dive-into-system-design-interview)
 - [ ] [CS 329S: Machine Learning Systems Design 2021](https://stanford-cs329s.github.io/2021/syllabus.html) and [2022](https://stanford-cs329s.github.io/syllabus.html)
 - [ ] [System Design by ByteByteGo](https://bytebytego.com)
+- [ ] [System Design](https://www.karanpratapsingh.com/courses/system-design)
 
 ## Books
 - [ ] [Mathematics for Machine Learning](https://mml-book.github.io)
