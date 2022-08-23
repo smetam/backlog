@@ -3,11 +3,11 @@ Collection of materials, that might be useful.
 
 
 ## Table of Contents
-**[Courses](#courses)**<br>
-**[Books](#books)**<br>
-**[Tutorials](#tutorials)**<br>
-**[Videos](#videos)**<br>
-**[Interview](#interview-preparation-materials)**<br>
+**[Courses](#courses)**  
+**[Books](#books)**  
+**[Tutorials](#tutorials)**  
+**[Videos](#videos)**  
+**[Interview](#interview-preparation-materials)**  
 
 
 ## Courses
@@ -20,6 +20,7 @@ Collection of materials, that might be useful.
 - [ ] [NLP Course For You](https://lena-voita.github.io/nlp_course.html)
 - [ ] [(RU) ML Handbook from Yandex](https://ml-handbook.ru)
 - [ ] [(RU) ODS ML in Production](https://ods.ai/tracks/ml-in-production-spring-22)
+- [ ] [Microsoft ML for Beginners](https://github.com/microsoft/ML-For-Beginners)
 
 ### Algorithms
 - [ ] [(RU) How to prepare for Algorithms Interview](https://practicum.yandex.ru/algorithms-interview/)

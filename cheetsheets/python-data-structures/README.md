@@ -75,6 +75,7 @@ d = dict()
 | Iterate | `for k, v in d.items()` or `for k in d.keys()` or `for v in d.values()` | O(n) | 
 
 ## Counter (Bag)
+Counter is a dict
 ```Python 
 from collections import Counter
 
